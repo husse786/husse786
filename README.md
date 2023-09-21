@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @husse786
-- 👀 I’m interested in Python and C 
-- 🌱 I’m currently learning Business Informatic in University Zurich
+- 👀 I’m interested in Python, Java and C 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach
 
